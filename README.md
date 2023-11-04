@@ -1,8 +1,5 @@
 # Clash-for-Windows-zh-Linux-Arch
 
-<center>
-    <img src="[example.jpg](https://github.com/XiaMooo/Clash-for-Windows-zh-Linux-Arch/releases/download/0.0.1/clash.png)">
-</center>
 
 Clash for Windows 的linux版本的备份，并且打包了Arch系的Pamac英文原版或汉化版安装包。
 
